@@ -1,0 +1,3 @@
+global: {}
+cnt1-go-gin:
+  replicaCount: 1

@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: cnt1-go-gin
+description: Chart to configure ArgoCD with the cnt1-go-gin project and its applications
