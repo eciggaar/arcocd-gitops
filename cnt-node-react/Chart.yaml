@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: cnt-node-react
+description: Chart to configure ArgoCD with the cnt-node-react project and its applications
